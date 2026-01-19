@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://cdn.prod.website-files.com/616f1b95e7186aa05896d4e4/62d96162492c2c67f90161db_brand_logo-area-bitcoin.svg" width="300"/>
-
 # 🟠 Area Bitcoin
 
 ### Bitcoin Education from basics to sovereignty
