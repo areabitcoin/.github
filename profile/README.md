@@ -4,56 +4,56 @@
 
 # 🟠 Area Bitcoin
 
-### Educação Bitcoin do básico à soberania | Bitcoin Education from basics to sovereignty
+### Bitcoin Education from basics to sovereignty
 
-[![Website BR](https://img.shields.io/badge/🇧🇷_Site_Brasil-areabitcoin.com.br-F7931A?style=for-the-badge)](https://www.areabitcoin.com.br/)
+[![Website BR](https://img.shields.io/badge/🇧🇷_Brazil-areabitcoin.com.br-F7931A?style=for-the-badge)](https://www.areabitcoin.com.br/)
 [![Website EN](https://img.shields.io/badge/🌍_Global-areabitcoin.co-F7931A?style=for-the-badge)](https://www.areabitcoin.co/)
 
 ---
 
-<img src="https://img.shields.io/badge/+6_anos-na_indústria_Bitcoin-222?style=flat-square"/> <img src="https://img.shields.io/badge/+5.000-alunos_formados-F7931A?style=flat-square"/> <img src="https://img.shields.io/badge/345K-inscritos_YouTube-red?style=flat-square"/> <img src="https://img.shields.io/badge/+32M-visualizações-blue?style=flat-square"/> <img src="https://img.shields.io/badge/+630K-seguidores_total-purple?style=flat-square"/> <img src="https://img.shields.io/badge/3_idiomas-PT_EN_ES-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/+6_years-in_Bitcoin_industry-222?style=flat-square"/> <img src="https://img.shields.io/badge/+5,000-students-F7931A?style=flat-square"/> <img src="https://img.shields.io/badge/345K-YouTube_subscribers-red?style=flat-square"/> <img src="https://img.shields.io/badge/+32M-views-blue?style=flat-square"/> <img src="https://img.shields.io/badge/+630K-total_followers-purple?style=flat-square"/> <img src="https://img.shields.io/badge/3_languages-PT_EN_ES-green?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🎯 Nossa Missão
+## 🎯 Our Mission
 
-> *Elevar o conhecimento de bitcoiners ao redor do mundo para os mais altos níveis de **liberdade financeira, intelectual e tecnológica**.*
+> *Free people from the fiat mindset worldwide, guiding them to the highest levels of **financial, intellectual, and technological freedom**.*
 
-Somos uma empresa **100% Bitcoin Only** fundada por **Kaká Furlan** e **Carol Souza**. Começamos em 2019 do absoluto zero e construímos uma das **maiores escolas de Bitcoin do mundo**, com alcance global em **3 idiomas** e nos tornamos **referência em educação Bitcoin na América Latina**.
+We are a **100% Bitcoin Only** company founded by **Kaká Furlan** and **Carol Souza**. We started in 2019 from absolute zero and built one of the **largest Bitcoin schools in the world**, with global reach in **3 languages**, becoming a **reference in Bitcoin education in Latin America**.
 
 ---
 
-## 📂 Nossos Projetos Open Source
+## 📂 Our Open Source Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🆓 [Bitcoin 4 All](https://github.com/areabitcoin/Bitcoin-4-All)
-**Curso gratuito e open source sobre Bitcoin**
+**Free and open source Bitcoin course**
 
-✅ 10 aulas completas em 3 idiomas<br/>
-✅ +12h de vídeo 100% gratuito<br/>
-✅ Scripts, slides, ebooks inclusos<br/>
-✅ Licença Creative Commons<br/>
-✅ Apoiado por [OpenSats](https://opensats.org/)
+✅ 10 complete lessons in 3 languages<br/>
+✅ +12h of 100% free video content<br/>
+✅ Scripts, slides, ebooks included<br/>
+✅ Creative Commons License<br/>
+✅ Supported by [OpenSats](https://opensats.org/)
 
-📖 [Acessar no GitBook](https://areabitcoin.gitbook.io/bitcoin-4-all-book)
+📖 [Access on GitBook](https://areabitcoin.gitbook.io/bitcoin-4-all-book)
 
 </td>
 <td width="50%">
 
 ### 🏪 [Aceito Bitcoin](https://github.com/areabitcoin/aceitobitcoin)
-**Ferramenta gratuita para comerciantes**
+**Free tool for merchants**
 
-✅ Cartões de pagamento com QR Code<br/>
-✅ Adesivos "Aceito Bitcoin" para imprimir<br/>
+✅ Payment cards with QR Code<br/>
+✅ "Bitcoin Accepted Here" stickers<br/>
 ✅ Lightning Address, Silent Payment, On Chain<br/>
-✅ Multi-idioma (PT/EN/ES)
+✅ Multi-language (PT/EN/ES)
 
-🔗 [Acessar ferramenta](https://aceitobitcoin.areabitcoin.com.br/)
+🔗 [Access tool](https://aceitobitcoin.areabitcoin.com.br/)
 
 </td>
 </tr>
@@ -61,18 +61,18 @@ Somos uma empresa **100% Bitcoin Only** fundada por **Kaká Furlan** e **Carol S
 <td>
 
 ### 🎮 [Satoshi Quiz](https://github.com/areabitcoin/satoshi-quiz-saas)
-**Quiz interativo sobre Bitcoin**
+**Interactive Bitcoin quiz**
 
-Teste e aprimore seu conhecimento sobre Bitcoin de forma divertida e gamificada.
+Test and improve your Bitcoin knowledge in a fun and gamified way.
 
 </td>
 <td>
 
-### 🛠️ Ferramentas Gratuitas
+### 🛠️ Free Tools
 
-🧮 [Calculadora BTC/Sats](https://www.areabitcoin.com.br/calculadora-bitcoin)<br/>
-📈 [Calculadora DCA](https://calculadoradca.areabitcoin.com.br/)<br/>
-😱 [Índice Medo & Ganância](https://fear-and-greed-index.areabitcoin.com.br/)
+🧮 [BTC/Sats Calculator](https://www.areabitcoin.com.br/calculadora-bitcoin)<br/>
+📈 [DCA Calculator](https://calculadoradca.areabitcoin.com.br/)<br/>
+😱 [Fear & Greed Index](https://fear-and-greed-index.areabitcoin.com.br/)
 
 </td>
 </tr>
@@ -80,9 +80,9 @@ Teste e aprimore seu conhecimento sobre Bitcoin de forma divertida e gamificada.
 
 ---
 
-## 🤝 Projetos que Apoiamos e Co-fundamos
+## 🤝 Projects We Support and Co-founded
 
-Acreditamos que a educação e a criação de ferramentas aceleram a adoção. Por isso, apoiamos e co-fundamos iniciativas que multiplicam conhecimento:
+We believe that education and building tools accelerate adoption. That's why we support and co-found initiatives that multiply knowledge:
 
 <table>
 <tr>
@@ -90,33 +90,33 @@ Acreditamos que a educação e a criação de ferramentas aceleram a adoção. P
 
 ### 🛟 [Bitups](https://bitups.org/)
 
-**Programa de formação de educadores Bitcoin**
+**Bitcoin educator training program**
 
-Mentoria contínua, materiais didáticos e bonificação em sats para organizar meetups presenciais por todo o Brasil.
+Ongoing mentorship, educational materials, and sats bonuses for organizing in-person meetups across Brazil.
 
-[📅 Ver agenda de eventos](https://lu.ma/bitups)
+[📅 See event schedule](https://lu.ma/bitups)
 
 </td>
 <td align="center" width="33%">
 
 ### 🎨 [Bitcoin Creative](https://bitcoincreative.org/)
 
-**Studio-lab open source para criativos**
+**Open source studio-lab for creatives**
 
-Formação prática em design, IA e marketing para quem quer trabalhar no ecossistema Bitcoin. Biblioteca 100% open source.
+Hands-on training in design, AI, and marketing for those who want to work in the Bitcoin ecosystem. 100% open source library.
 
-[🎨 Ver biblioteca](https://bitcoincreative.org/biblioteca)
+[🎨 View library](https://bitcoincreative.org/biblioteca)
 
 </td>
 <td align="center" width="33%">
 
 ### 👨‍💻 [Bitcoin Coders](https://bitcoincoders.org/)
 
-**Escola técnica gratuita para devs**
+**Free technical school for developers**
 
-Aprenda a integrar Bitcoin em aplicações reais ou contribuir com o código do protocolo. 100% gratuito, em português.
+Learn to integrate Bitcoin into real applications or contribute to the protocol code. 100% free.
 
-[💻 Começar agora](https://bitcoincoders.org/)
+[💻 Start now](https://bitcoincoders.org/)
 
 </td>
 </tr>
@@ -124,68 +124,68 @@ Aprenda a integrar Bitcoin em aplicações reais ou contribuir com o código do 
 
 ---
 
-## ☀️ Impacto e Conquistas
+## ☀️ Impact and Achievements
 
 <div align="center">
 
 | 📺 YouTube | 📸 Instagram | 🎵 TikTok | 🐦 X/Twitter |
 |:----------:|:------------:|:---------:|:------------:|
-| **345K** inscritos | **233K** seguidores | **54K** seguidores | **15K** seguidores |
-| **+32M** views | **+2.200** posts | **+700K** likes | Verificado ✓ |
-| **+1.200** vídeos | Desde 2019 | Conteúdo diário | Notícias e threads |
+| **345K** subscribers | **233K** followers | **54K** followers | **15K** followers |
+| **+32M** views | **+2,200** posts | **+700K** likes | Verified ✓ |
+| **+1,200** videos | Since 2019 | Daily content | News and threads |
 
 </div>
 
-🏆 **Maior canal de Bitcoin do YouTube em português** — +345K inscritos e +32M visualizações
+🏆 **Largest Portuguese-language Bitcoin YouTube channel** — +345K subscribers and +32M views
 
-📹 **+1.200 vídeos publicados** — Conteúdo educacional gratuito no YouTube em PT e EN
+📹 **+1,200 videos published** — Free educational content on YouTube in PT and EN
 
-🎤 **Palestrantes internacionais** — Sats Conf, Surfin Bitcoin, Africa Bitcoin Conference, Adopting Bitcoin
+🎤 **International speakers** — Sats Conf, Surfin Bitcoin, Africa Bitcoin Conference, Adopting Bitcoin
 
-📰 **+200 artigos publicados** — Blog em português e inglês cobrindo todos os aspectos do Bitcoin
+📰 **+200 articles published** — Blog in Portuguese and English covering all aspects of Bitcoin
 
-🎙️ **+150 episódios** — Area Bitcoin Podcast no Spotify e YouTube
+🎙️ **+150 episodes** — Area Bitcoin Podcast on Spotify and YouTube
 
-🌎 **Referência na América Latina** — Reconhecidas como uma das principais vozes em educação Bitcoin
+🌎 **Reference in Latin America** — Recognized as leading voices in Bitcoin education
 
-📖 **Curso open source em 3 idiomas** — Bitcoin 4 All traduzido para PT, EN e ES com apoio do OpenSats
+📖 **Open source course in 3 languages** — Bitcoin 4 All translated to PT, EN, and ES with OpenSats support
 
-🤝 **Rede de educadores em +10 cidades** — Programa Bitups formando multiplicadores pelo Brasil
+🤝 **Educator network in +10 cities** — Bitups program training multipliers across Brazil
 
-📚 **+300 horas de conteúdo estruturado** — Entre cursos, workshops, tutoriais e materiais gratuitos
+📚 **+300 hours of structured content** — Courses, workshops, tutorials, and free materials
 
-👥 **+630K seguidores** — Somando todas as plataformas (YouTube, Instagram, TikTok, X, Telegram)
+👥 **+630K followers** — Across all platforms (YouTube, Instagram, TikTok, X, Telegram)
 
 ---
 
-## 🎓 Plataforma Educacional
+## 🎓 Educational Platform
 
-Nossa plataforma oferece formação completa do **iniciante ao avançado**:
+Our platform offers complete training from **beginner to advanced**:
 
-| Curso | O que você aprende |
+| Course | What you learn |
 |:------|:-------------------|
-| 📘 **Bitcoin Starter** | Fundamentos, como comprar, filosofia e mentalidade Bitcoin |
-| 🔐 **Carteira Bitcoin MAX** | Segurança avançada e autocustódia completa |
-| 💼 **Como Aceitar Bitcoin** | Para comerciantes e empresários que querem aceitar BTC |
-| 🛡️ **Bitcoin Intocável** | Privacidade máxima e soberania total |
-| ⚖️ **Tributação Bitcoin** | Aspectos legais e fiscais no Brasil |
+| 📘 **Bitcoin Starter** | Fundamentals, how to buy, philosophy and Bitcoin mindset |
+| 🔐 **Bitcoin Wallet MAX** | Advanced security and complete self-custody |
+| 💼 **How to Accept Bitcoin** | For merchants and entrepreneurs who want to accept BTC |
+| 🛡️ **Untouchable Bitcoin** | Maximum privacy and total sovereignty |
+| ⚖️ **Bitcoin Taxation** | Legal and tax aspects in Brazil |
 
-**+300h de conteúdo** • **Mentorias ao vivo mensais** • **Comunidade exclusiva** • **Certificados**
+**+300h of content** • **Monthly live mentoring** • **Exclusive community** • **Certificates**
 
-🔗 **[Conhecer a plataforma completa →](https://www.areabitcoin.com.br/)**
+🔗 **[Explore the full platform →](https://www.areabitcoin.com.br/)**
 
 ---
 
-## 📡 Conecte-se com a Area Bitcoin
+## 📡 Connect with Area Bitcoin
 
 <div align="center">
 
 ### 🎬 YouTube
-| 🇧🇷 Português | 🌍 English |
+| 🇧🇷 Portuguese | 🌍 English |
 |:---:|:---:|
 | [@AreaBitcoin](https://www.youtube.com/@AreaBitcoin) | [@areabitcoin.english](https://www.youtube.com/@areabitcoin.english) |
-| 345K inscritos · 32M views | Conteúdo global |
-| +1.200 vídeos | 72 vídeos |
+| 345K subs · 32M views | Global content |
+| +1,200 videos | 72 videos |
 
 ### 📝 Blog & Podcast
 | 🇧🇷 Blog PT | 🌍 Blog EN | 🎙️ Podcast |
@@ -194,7 +194,7 @@ Nossa plataforma oferece formação completa do **iniciante ao avançado**:
 
 <br/>
 
-### 📱 Redes Sociais
+### 📱 Social Media
 
 [![X/Twitter](https://img.shields.io/badge/@areabitcoin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/areabitcoin)
 [![Instagram](https://img.shields.io/badge/@area.bitcoin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/area.bitcoin/)
@@ -205,7 +205,7 @@ Nossa plataforma oferece formação completa do **iniciante ao avançado**:
 
 ---
 
-## 🧡 Quem está por trás
+## 🧡 Who's Behind
 
 <div align="center">
 
@@ -213,17 +213,17 @@ Nossa plataforma oferece formação completa do **iniciante ao avançado**:
 
 **Kaká Furlan** & **Carol Souza**
 
-*Fundadoras da Area Bitcoin*
+*Founders of Area Bitcoin*
 
-Em 2019, largaram suas profissões para se dedicar 100% ao Bitcoin. Sem audiência, sem recursos — apenas com a convicção de que a educação Bitcoin pode mudar vidas.
+In 2019, they left their careers to dedicate 100% to Bitcoin. No audience, no resources — just the conviction that Bitcoin education can change lives.
 
-De lá pra cá, construíram a maior escola online de Bitcoin do Brasil, se tornaram referência na América Latina e continuam na missão de acelerar a adoção global do Bitcoin através da educação.
+Since then, they've built the largest online Bitcoin school in Brazil, became a reference in Latin America, and continue on their mission to accelerate global Bitcoin adoption through education.
 
 ---
 
-### 🤝 Contribua com nossos projetos open source!
+### 🤝 Contribute to our open source projects!
 
-Todos os nossos materiais educacionais são livres para uso, adaptação e distribuição.
+All our educational materials are free to use, adapt, and distribute.
 
 [![Star Bitcoin 4 All](https://img.shields.io/badge/⭐_Star-Bitcoin_4_All-F7931A?style=for-the-badge&logo=github)](https://github.com/areabitcoin/Bitcoin-4-All)
 [![Star Aceito Bitcoin](https://img.shields.io/badge/⭐_Star-Aceito_Bitcoin-F7931A?style=for-the-badge&logo=github)](https://github.com/areabitcoin/aceitobitcoin)
@@ -232,7 +232,7 @@ Todos os nossos materiais educacionais são livres para uso, adaptação e distr
 
 **Made with 🧡 in Brazil for the World**
 
-*Educação e a criação de ferramentas open source são forças imparáveis que aceleram a adoção.*
+*Education and open source tools are unstoppable forces that accelerate adoption.*
 
 🟠 **Opt Out. Stack Sats. Stay Humble.**
 
