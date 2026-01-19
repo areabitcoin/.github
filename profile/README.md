@@ -2,8 +2,6 @@
 
 <img src="https://cdn.prod.website-files.com/616f1b95e7186aa05896d4e4/62d96162492c2c67f90161db_brand_logo-area-bitcoin.svg" width="300"/>
 
-<br/><br/>
-
 # 🟠 Area Bitcoin
 
 ### Educação Bitcoin do básico à soberania | Bitcoin Education from basics to sovereignty
@@ -141,11 +139,6 @@ Aprenda a integrar Bitcoin em aplicações reais ou contribuir com o código do 
 🏆 **Maior canal de Bitcoin do YouTube em português** — +345K inscritos e +32M visualizações
 
 📹 **+1.200 vídeos publicados** — Conteúdo educacional gratuito no YouTube em PT e EN
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/F8X7cKnWwAAE2Qy?format=jpg&name=medium" width="700"/>
-<br/><em>Kaká e Carol palestrando na Sats Conf</em>
-</div>
 
 🎤 **Palestrantes internacionais** — Sats Conf, Surfin Bitcoin, Africa Bitcoin Conference, Adopting Bitcoin
 
