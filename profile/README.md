@@ -8,11 +8,8 @@
 
 ### Educação Bitcoin do básico à soberania | Bitcoin Education from basics to sovereignty
 
-**Fundada em 2019 · 100% Bitcoin Only · Open Source**
-
 [![Website BR](https://img.shields.io/badge/🇧🇷_Site_Brasil-areabitcoin.com.br-F7931A?style=for-the-badge)](https://www.areabitcoin.com.br/)
 [![Website EN](https://img.shields.io/badge/🌍_Global-areabitcoin.co-F7931A?style=for-the-badge)](https://www.areabitcoin.co/)
-[![OpenSats](https://img.shields.io/badge/Apoiado_por-OpenSats-000?style=for-the-badge)](https://opensats.org/)
 
 ---
 
@@ -24,7 +21,7 @@
 
 ## 🎯 Nossa Missão
 
-> *Elevar o conhecimento de bitcoiners ao redor do mundo para os mais altos níveis de **soberania financeira, intelectual e tecnológica**.*
+> *Elevar o conhecimento de bitcoiners ao redor do mundo para os mais altos níveis de **liberdade financeira, intelectual e tecnológica**.*
 
 Somos uma empresa **100% Bitcoin Only** fundada por **Kaká Furlan** e **Carol Souza**. Começamos em 2019 do absoluto zero e construímos uma das **maiores escolas de Bitcoin do mundo**, com alcance global em **3 idiomas** e nos tornamos **referência em educação Bitcoin na América Latina**.
 
@@ -87,7 +84,7 @@ Teste e aprimore seu conhecimento sobre Bitcoin de forma divertida e gamificada.
 
 ## 🤝 Projetos que Apoiamos e Co-fundamos
 
-Acreditamos que a educação Bitcoin precisa ser **descentralizada**. Por isso, apoiamos e co-fundamos iniciativas que multiplicam conhecimento:
+Acreditamos que a educação e a criação de ferramentas aceleram a adoção. Por isso, apoiamos e co-fundamos iniciativas que multiplicam conhecimento:
 
 <table>
 <tr>
@@ -144,6 +141,11 @@ Aprenda a integrar Bitcoin em aplicações reais ou contribuir com o código do 
 🏆 **Maior canal de Bitcoin do YouTube em português** — +345K inscritos e +32M visualizações
 
 📹 **+1.200 vídeos publicados** — Conteúdo educacional gratuito no YouTube em PT e EN
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/F8X7cKnWwAAE2Qy?format=jpg&name=medium" width="700"/>
+<br/><em>Kaká e Carol palestrando na Sats Conf</em>
+</div>
 
 🎤 **Palestrantes internacionais** — Sats Conf, Surfin Bitcoin, Africa Bitcoin Conference, Adopting Bitcoin
 
@@ -204,7 +206,6 @@ Nossa plataforma oferece formação completa do **iniciante ao avançado**:
 [![X/Twitter](https://img.shields.io/badge/@areabitcoin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/areabitcoin)
 [![Instagram](https://img.shields.io/badge/@area.bitcoin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/area.bitcoin/)
 [![TikTok](https://img.shields.io/badge/@areabitcoin-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@areabitcoin)
-[![Telegram](https://img.shields.io/badge/Comunidade-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/areabitcoin)
 [![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=for-the-badge)](https://primal.net/p/npub13zpemj05wvgadhgyyv4e0captmkd64p8kz323pfq87ffahrws0ms9yp5ww)
 
 </div>
@@ -214,6 +215,8 @@ Nossa plataforma oferece formação completa do **iniciante ao avançado**:
 ## 🧡 Quem está por trás
 
 <div align="center">
+
+<img src="https://cdn.prod.website-files.com/616f1b95e7186aa05896d4e4/6397a780e86a6a7ed774a503_DSC_9416-p-1080.webp" width="600"/>
 
 **Kaká Furlan** & **Carol Souza**
 
@@ -236,7 +239,7 @@ Todos os nossos materiais educacionais são livres para uso, adaptação e distr
 
 **Made with 🧡 in Brazil for the World**
 
-*Acreditamos que a educação Bitcoin deve ser universal e acessível a todos.*
+*Educação e a criação de ferramentas open source são forças imparáveis que aceleram a adoção.*
 
 🟠 **Opt Out. Stack Sats. Stay Humble.**
 
