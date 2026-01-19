@@ -2,8 +2,7 @@
 
 # 🟠 Area Bitcoin
 
-### Bitcoin Education from basics to sovereignty
-**Born in Brazil 🇧🇷 · Reaching the World 🌎**
+### From Brazil to the World  Bitcoin education from basics to freedom.
 
 [![Website BR](https://img.shields.io/badge/🇧🇷_Brazil-areabitcoin.com.br-F7931A?style=for-the-badge)](https://www.areabitcoin.com.br/)
 [![Website EN](https://img.shields.io/badge/🌍_Global-areabitcoin.co-F7931A?style=for-the-badge)](https://www.areabitcoin.co/)
