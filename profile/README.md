@@ -16,7 +16,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/+6_anos-na_indústria_Bitcoin-222?style=flat-square"/> <img src="https://img.shields.io/badge/+5.000-alunos_formados-F7931A?style=flat-square"/> <img src="https://img.shields.io/badge/+300K-inscritos_YouTube-red?style=flat-square"/> <img src="https://img.shields.io/badge/+8M-visualizações-blue?style=flat-square"/> <img src="https://img.shields.io/badge/3_idiomas-PT_EN_ES-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/+6_anos-na_indústria_Bitcoin-222?style=flat-square"/> <img src="https://img.shields.io/badge/+5.000-alunos_formados-F7931A?style=flat-square"/> <img src="https://img.shields.io/badge/345K-inscritos_YouTube-red?style=flat-square"/> <img src="https://img.shields.io/badge/+32M-visualizações-blue?style=flat-square"/> <img src="https://img.shields.io/badge/+630K-seguidores_total-purple?style=flat-square"/> <img src="https://img.shields.io/badge/3_idiomas-PT_EN_ES-green?style=flat-square"/>
 
 </div>
 
@@ -131,7 +131,19 @@ Aprenda a integrar Bitcoin em aplicações reais ou contribuir com o código do 
 
 ## ☀️ Impacto e Conquistas
 
-🏆 **Maior canal de Bitcoin do YouTube em português** — +300K inscritos e +8M visualizações
+<div align="center">
+
+| 📺 YouTube | 📸 Instagram | 🎵 TikTok | 🐦 X/Twitter |
+|:----------:|:------------:|:---------:|:------------:|
+| **345K** inscritos | **233K** seguidores | **54K** seguidores | **15K** seguidores |
+| **+32M** views | **+2.200** posts | **+700K** likes | Verificado ✓ |
+| **+1.200** vídeos | Desde 2019 | Conteúdo diário | Notícias e threads |
+
+</div>
+
+🏆 **Maior canal de Bitcoin do YouTube em português** — +345K inscritos e +32M visualizações
+
+📹 **+1.200 vídeos publicados** — Conteúdo educacional gratuito no YouTube em PT e EN
 
 🎤 **Palestrantes internacionais** — Sats Conf, Surfin Bitcoin, Africa Bitcoin Conference, Adopting Bitcoin
 
@@ -145,7 +157,9 @@ Aprenda a integrar Bitcoin em aplicações reais ou contribuir com o código do 
 
 🤝 **Rede de educadores em +10 cidades** — Programa Bitups formando multiplicadores pelo Brasil
 
-📚 **+300 horas de conteúdo** — Entre cursos, workshops, tutoriais e materiais gratuitos
+📚 **+300 horas de conteúdo estruturado** — Entre cursos, workshops, tutoriais e materiais gratuitos
+
+👥 **+630K seguidores** — Somando todas as plataformas (YouTube, Instagram, TikTok, X, Telegram)
 
 ---
 
@@ -175,7 +189,8 @@ Nossa plataforma oferece formação completa do **iniciante ao avançado**:
 | 🇧🇷 Português | 🌍 English |
 |:---:|:---:|
 | [@AreaBitcoin](https://www.youtube.com/@AreaBitcoin) | [@areabitcoin.english](https://www.youtube.com/@areabitcoin.english) |
-| +300K inscritos | Conteúdo global |
+| 345K inscritos · 32M views | Conteúdo global |
+| +1.200 vídeos | 72 vídeos |
 
 ### 📝 Blog & Podcast
 | 🇧🇷 Blog PT | 🌍 Blog EN | 🎙️ Podcast |
